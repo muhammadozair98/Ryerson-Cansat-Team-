@@ -8,18 +8,7 @@
   the correct LED pin independent of which board is used.
   If you want to know what pin the on-board LED is connected to on your Arduino
   model, check the Technical Specs of your board at:
-  https://www.arduino.cc/en/Main/Products
 
-  modified 8 May 2014
-  by Scott Fitzgerald
-  modified 2 Sep 2016
-  by Arturo Guadalupi
-  modified 8 Sep 2016
-  by Colby Newman
-
-  This example code is in the public domain.
-
-  http://www.arduino.cc/en/Tutorial/Blink
 */
 
 // This turns both LED's ON and then OFF for 1 sec. Then the first LED is ON while the other is OFF. This will loop forever. 
